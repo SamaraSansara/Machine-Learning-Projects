@@ -73,13 +73,21 @@ plt.savefig("iris_scatter.png")
 
 
 **pandas**: Для работы с табличными данными (DataFrame).
+
 **numpy**: Для числовых вычислений.
+
 **matplotlib.pyplot**: Для визуализации данных.
+
 **load_iris**: Функция из sklearn для загрузки датасета Iris.
+
 **train_test_split**: Разделение данных на обучающую и тестовую выборки.
+
 **StandardScaler**: Нормализация данных (масштабирование признаков).
+
 **KNeighborsClassifier**: Алгоритм k-ближайших соседей (KNN) для классификации.
+
 **accuracy_score, classification_report, confusion_matrix**: Метрики для оценки модели.
+
 **matplotlib.use('Agg')**: Установка бэкэнда Matplotlib для сохранения графиков без отображения на экране.
 
 
