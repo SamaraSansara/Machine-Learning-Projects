@@ -1,5 +1,3 @@
-
-```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -44,7 +42,6 @@ plt.xlabel('Длина лепестка (см)')
 plt.ylabel('Ширина лепестка (см)')
 plt.title('Распределение видов ирисов')
 plt.savefig("iris_scatter.png")
-```
 
 
 
