@@ -1,6 +1,3 @@
-Goal: Predict the species of an iris flower using petal and sepal measurements.
-Dataset: UCI ML Repository (Iris dataset)
-Skills: Classification, scikit-learn basics
 
 ```python
 import pandas as pd
